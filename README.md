@@ -52,6 +52,6 @@ Once you’ve created the FPSController game object, press play and explore your
 ## Optional Extensions
 
 - Explore how to use the second 'Normal Map' texture in the terrain editor to add detail to your terrain (see https://docs.unity3d.com/Manual/StandardShaderMaterialParameterNormalMap.html)
-- Write a script that automatically generates alpha maps for a procedurally generated terrain, based on elevation and terrain ‘steepness’. See the following tutorial for more information about how this might be achieved: https://alastaira.wordpress.com/2013/11/14/procedural-terrain-splatmapping.
+
 
 
